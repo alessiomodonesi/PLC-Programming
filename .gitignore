@@ -2,7 +2,6 @@ M/
 TMP/
 Logs/
 XRef/
-*.zap16
 *.zip
 *.tmp
 .DS_Store
